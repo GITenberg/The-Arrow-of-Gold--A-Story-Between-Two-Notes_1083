@@ -1,0 +1,53 @@
+_repo: The-Arrow-of-Gold--A-Story-Between-Two-Notes_1083
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Conrad, Joseph
+    aliases:
+    - Korzeniowski, Jozef Konrad Teodor
+    - Korzeniowski, Joseph Conrad Theodore
+    - Korzeniowski, Józef Konrad Teodor
+    birthdate: 1857
+    deathdate: 1924
+    gutenberg_agent_id: '125'
+    url: http://www.gutenberg.org/2009/agents/125
+    wikipedia: http://en.wikipedia.org/wiki/Joseph_Conrad
+description: "The Arrow of Gold is a novel by Joseph Conrad, published in 1919. It\
+  \ was originally titled \"The Laugh\" and published serially in Lloyd's Magazine\
+  \ from December 1918 to February 1920. The story is set in Marseille in the 1870s\
+  \ during the Third Carlist War. The characters of the novel are supporters of the\
+  \ Spanish Pretender Carlos, Duke of Madrid. Curiously, the novel features a person\
+  \ referred to as \"Lord X\", whose activities as arms smuggler resemble those of\
+  \ the Carlist politician Tirso de Olazábal y Lardizábal, Count of Arbelaiz.\nThe\
+  \ narrator of The Arrow of Gold has considerable involvement in the story and is\
+  \ unnamed, though some assume he is Conrad's regular narrator, Charles Marlow. The\
+  \ principal theme is a love triangle which comprises the young narrator, Doña Rita\
+  \ and the Confederate veteran Captain Blunt (named for Simon F. Blunt. Doña Rita\
+  \ finances the operations of the narrator's vessel, Tremolino which smuggles ammunition\
+  \ to the Carlist army. Nautical operations are detailed in the Tremolino chapters\
+  \ of The Mirror of the Sea rather than in this novel.\nConrad dedicated the novel\
+  \ to his friend and literary assistant Richard Curle.\n\n\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Bestsellers, American, 1895-1923
+gutenberg_issued: '1997-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1083'
+  wikidata: Q860023
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Young men -- Fiction'
+- !lcsh 'Adventure stories'
+- !lcc 'PR'
+- !lcsh 'Marseille (France) -- Fiction'
+- !lcsh 'Sea stories'
+- !lcsh 'Illegal arms transfers -- Fiction'
+- GITenberg
+title: 'The Arrow of Gold: A Story Between Two Notes'
+url: http://www.gutenberg.org/ebooks/1083
+wikipedia:
+- https://fr.wikipedia.org/wiki/La_Fl%C3%A8che_d%27or_(roman)
+- https://en.wikipedia.org/wiki/The_Arrow_of_Gold
+- https://it.wikipedia.org/wiki/La_freccia_d%27oro_(romanzo)
